@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Amitesh2304/Amitesh2304/blob/main/code-coding.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Amitesh Pandey</h1>
 <h3 align="center">A passionate Java full Stack developer from India</h3>
 
