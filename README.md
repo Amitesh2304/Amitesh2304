@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amitesh Pandey</h1>
 <h3 align="center">A passionate Java full Stack developer from India</h3>
 
-<img align="center" width=500px src="https://github.com/Amitesh2304/Amitesh2304/blob/main/This%20pin%20is%20all%20about%20coding.gif?raw=true">![MasterHead](https://github.com/Amitesh2304/Amitesh2304/blob/main/programmers%2C%20code%2C%20programming%2C%20text%2C%20simple%20background%2C%20digital%20art%20_%203840x2160%20Wallpaper%20-%20wallhaven_cc.jpeg?raw=true)
+<img align="center" width=500px src="https://github.com/Amitesh2304/Amitesh2304/blob/main/This%20pin%20is%20all%20about%20coding.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitesh2304&label=Profile%20views&color=0e75b6&style=flat" alt="amitesh2304" /> </p>
 
